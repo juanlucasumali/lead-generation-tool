@@ -1,8 +1,14 @@
 # 🏢 BSI Lead Generation Tool
 
-A simple Streamlit app that answers questions about an uploaded document via OpenAI's GPT-3.5.
+A Streamlit app that analyzes company websites to identify key information about their technology infrastructure, designed for Business Systems International (BSI) lead generation.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-question-answering-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lead-generation-tool.streamlit.app/)
+
+## Features
+
+- Web scraping of company websites
+- AI-powered analysis of technology infrastructure
+- Generation of summarized reports for lead qualification
 
 ### How to run it on your own machine
 
