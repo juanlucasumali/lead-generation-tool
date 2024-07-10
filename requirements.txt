@@ -1,0 +1,4 @@
+streamlit
+crewai==0.36.0
+beautifulsoup4==4.12.3
+langchain-groq==0.1.6
