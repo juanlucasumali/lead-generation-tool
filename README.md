@@ -1,6 +1,6 @@
-# 🏢 BSI Lead Generation Tool
+# 🏢 Lead Generation Tool
 
-A Streamlit app that analyzes company websites to identify key information about their technology infrastructure, designed for Business Systems International (BSI) lead generation.
+A Streamlit app that analyzes company websites to identify key information about their technology infrastructure, designed for lead generation for a hardware supplier company.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lead-generation-tool.streamlit.app/)
 
